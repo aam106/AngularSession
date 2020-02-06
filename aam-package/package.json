@@ -1,0 +1,14 @@
+{
+  "name": "aam_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entryfirst",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aam_fnq"
+  ],
+  "author": "",
+  "license": "ISC"
+}
